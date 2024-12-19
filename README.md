@@ -45,6 +45,16 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+## Environment Variables
+
+To fully set up the local development environment, you will need to create an `.env` file in the parent folder (`./` location) and populate it with the following variables:
+
+> `REACT_APP_CMS_SPACE_ID = "jfe11uxlt00t"`
+
+> `REACT_APP_CMS_ACCESS_TOKEN = "Wb3i18-7XqdkJLRx1w3Hhgu5ebl3m2WBTe_wLqJmgrA"`
+
+> `REACT_APP_CMS_ENV = "master"`
+
 ## Scout Developers
 
 The contributions to this website were made with love by:
