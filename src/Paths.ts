@@ -24,6 +24,6 @@ export const ResourcesPage: Page = {
 }
 
 export const TechnologyPage: Page = {
-  path: "/technology",
-  name: "Technology"
+  path: "/timeline",
+  name: "Timeline"
 }
